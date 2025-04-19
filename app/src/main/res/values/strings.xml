@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">santiagocarreno_COMP304Sec002_Lab02</string>
+    <string name="title_activity_create_task">CreateTaskActivity</string>
+    <string name="title_activity_view_edit_task">ViewEditTaskActivity</string>
+</resources>
